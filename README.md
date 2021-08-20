@@ -8,9 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## DEPLOYED THE PROJECT ON NETLIFY [tdcx-tasks.netlify.app](tdcx-tasks.netlify.app)
 
 ## EXTERNAL LIBRARIES USED
-REACT-CHARTS-JS2 - FOR CHARTS
-REACTSTRAP- FOR STYLING
-AXIOS - FOR DATA FETCHING
+REACT-CHARTS-JS2 - FOR CHARTS\
+REACTSTRAP- FOR STYLING\
+AXIOS - FOR DATA FETCHING\
 
 ## Available Scripts
 
